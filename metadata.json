@@ -1,0 +1,6 @@
+{
+  "name": "Rimba Creative Gallery",
+  "description": "Rimba Creative Gallery is a Kigali-based creative space and media house shaping visual stories through photography, film, art, exhibitions and creative media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
